@@ -2,22 +2,42 @@
     height: 100px;
     width: 100px;
     font-size: 40px;
-    background-color: #afb8c1;
-    border-top: 1px solid black;
+    background-color: #dfe1e7;
+    border-top: 1px solid #687291;
     display: flex;
     justify-content: center;
     margin-bottom: 8px;
+    font-family: Tahoma, serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+.square_alt {
+    height: 100px;
+    width: 100px;
+    font-size: 40px;
+    background-color: #eeeff2;
+    border-top: 1px solid #687291;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+    font-family: Tahoma, serif;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 .squareF {
     height: 100px;
     width: 100px;
     font-size: 40px;
-    background-color: #afb8c1;
+    background-color: #687291;
     border: 4px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-bottom: 8px;
+    font-family: Tahoma, serif;
+    margin-left: auto;
+    margin-right: auto;
 }
 
