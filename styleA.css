@@ -11,19 +11,9 @@
     margin-left: auto;
     margin-right: auto;
 }
-.square_alt {
-    height: 100px;
-    width: 100px;
-    font-size: 40px;
-    background-color: #eeeff2;
-    border-top: 1px solid #687291;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 8px;
-    font-family: Tahoma, serif;
-    margin-left: auto;
-    margin-right: auto;
 
+.alt {
+    background-color: #eeeff2;
 }
 
 .squareF {
